@@ -1,0 +1,31 @@
+[
+{
+    "neve":"Somlói galuska",
+    "elkeszitesiido":30,
+    "eleresiut":"somlo.jpg",
+    "leiras":"igy kell elkészíteni a somlóit",
+    "hozzavalok":[{"tojás":6},{"liszt":0.5},{"csokoládé":1}]
+},
+{
+    "neve":"articsokakremleves",
+    "elkeszitesiido":3,
+    "eleresiut":"articsokakremleves.jpg",
+    "leiras":"igy kell elkészíteni az articsoka kremlevest",
+    "hozzavalok":[{"kenyér":0.25},{"zsír":0.5}]   
+},
+{
+    "neve":"pörkölt",
+    "elkeszitesiido":30,
+    "eleresiut":"porkolt.jpg",
+    "leiras":"igy kell elkészíteni a pörköltöt",
+    "hozzavalok":[{"kenyér":0.25},{"zsír":0.5}]   
+},
+{
+    "img0":"images1.jpg",
+    "img1":"articsokakremleves.jpg",
+    "img2":"porkolt.jpg",
+    "img3":"somlo.jpg",
+    "slidprev":"arrow.png",
+    "slidnext":"arrow.png"
+}
+]
